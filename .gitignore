@@ -1,0 +1,14 @@
+# Ambientes e cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dados (arquivos grandes nao devem ir pro Git)
+data/*
+!data/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db

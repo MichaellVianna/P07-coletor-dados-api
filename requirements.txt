@@ -1,0 +1,7 @@
+# Ambiente do P07 (versões instaladas na máquina, Python 3.14).
+requests>=2.34
+beautifulsoup4>=4.15
+pandas>=3.0
+numpy>=2.5
+matplotlib>=3.11
+ipykernel>=7.3
