@@ -68,3 +68,5 @@ jupyter notebook notebooks/P07_coletor_dados_api.ipynb
 ```
 
 A primeira execução baixa tudo (27 arquivos do ONS, 4 zips do INMET de uns 100 MB e 44 arquivos da ANP) e leva de 30 a 60 minutos, conforme a velocidade dos servidores. Nas seguintes, só baixa o que falta ou mudou. O notebook importa `notebooks/estilo.py`, que guarda só a aparência dos gráficos. As figuras são salvas em `images/`.
+
+O próximo projeto do portfólio muda de tema: daqui em diante os projetos trabalham com dados educacionais públicos, começando por SQL avançado sobre o Censo Escolar e o Ideb.
